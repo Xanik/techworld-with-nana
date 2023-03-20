@@ -6,7 +6,7 @@
 
 - Which CLI editor is configured (Nano, Vi, Vim): Vim
 
-- What software center/software manager it uses: Ubuntu Software 
+- What software center/software manager it uses: Ubuntu Software Center
 
 - Which shell is configured for your user: Bash 
 
