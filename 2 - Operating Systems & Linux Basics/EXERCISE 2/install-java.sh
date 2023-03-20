@@ -1,5 +1,5 @@
 #!/bin/bash
-if ! [ -x "$(command -v git java)" ]; then
+if ! [ -x "$(command -v java)" ]; then
 
   echo 'Error: java is not installed. Installing java now'
 
